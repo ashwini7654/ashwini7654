@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Ashwini Kumar
 
-### 💻 Java Full Stack Developer | React.js | Spring Boot
+### 💻 Java Full Stack Developer | React.js Developer | Spring Boot Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Building+Web+Applications;Spring+Boot+%7C+React.js;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Typing SVG" />
 
