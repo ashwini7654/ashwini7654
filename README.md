@@ -16,7 +16,7 @@
 
 ---
 
-## `> whoami`
+## `> who am i`
 
 ```java
 public class AshwiniKumar {
