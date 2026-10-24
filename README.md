@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ## 🐍 My GitHub Contributions
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/ashwini7654/ashwini7654/output/github-contribution-grid-snake.svg)
+
 
 ![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/ashwini7654/ashwini7654/output/github-contribution-grid-snake-dark.svg)
