@@ -186,8 +186,14 @@ Explores polynomial feature engineering and the effect of different polynomial d
 
 **Thanks for visiting my profile!**
 
+⭐ If you find my projects interesting, explore my repositories and connect with me.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:090979,50:2563EB,100:7C3AED" width="100%" alt="Decorative footer"/>
+
+</div>
+
+## 🐍 My GitHub Contributions
 
 
 
 
-![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/ashwini7654/ashwini7654/output/github-contribution-grid-snake-dark.svg)
